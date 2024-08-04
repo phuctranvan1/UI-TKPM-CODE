@@ -1,0 +1,23 @@
+<svg width="1287" height="772" viewBox="0 0 1287 772" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="1262" height="771" rx="19.5" fill="white" stroke="black"/>
+<g clip-path="url(#clip0_47_961)">
+<path d="M1224 33V43H1216V33H1224ZM1222.5 27H1217.5L1216.5 28H1213V30H1227V28H1223.5L1222.5 27ZM1226 31H1214V43C1214 44.1 1214.9 45 1216 45H1224C1225.1 45 1226 44.1 1226 43V31Z" fill="black"/>
+</g>
+<g clip-path="url(#clip1_47_961)">
+<path d="M1224 118V128H1216V118H1224ZM1222.5 112H1217.5L1216.5 113H1213V115H1227V113H1223.5L1222.5 112ZM1226 116H1214V128C1214 129.1 1214.9 130 1216 130H1224C1225.1 130 1226 129.1 1226 128V116Z" fill="black"/>
+</g>
+<g clip-path="url(#clip2_47_961)">
+<path d="M1224 203V213H1216V203H1224ZM1222.5 197H1217.5L1216.5 198H1213V200H1227V198H1223.5L1222.5 197ZM1226 201H1214V213C1214 214.1 1214.9 215 1216 215H1224C1225.1 215 1226 214.1 1226 213V201Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_47_961">
+<rect width="24" height="24" fill="white" transform="translate(1208 24)"/>
+</clipPath>
+<clipPath id="clip1_47_961">
+<rect width="24" height="24" fill="white" transform="translate(1208 109)"/>
+</clipPath>
+<clipPath id="clip2_47_961">
+<rect width="24" height="24" fill="white" transform="translate(1208 194)"/>
+</clipPath>
+</defs>
+</svg>
